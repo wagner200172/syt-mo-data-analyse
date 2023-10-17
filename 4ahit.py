@@ -25,4 +25,3 @@ plt.title('Unemployment Rates in Austria Over Time')
 plt.xlabel('Year')
 plt.ylabel('Unemployment Rate')
 plt.show()
-
